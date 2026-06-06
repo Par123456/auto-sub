@@ -432,7 +432,6 @@ ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.42:443?security=tls&sni=pa
 ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.82:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#
 ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.82:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#@Hope_Net-join-us-on-Telegram
 ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.82:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#v2ray_configs_pool-90
-ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.82:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=random&alpn=h3#v2ray_configs_pool-90
 ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.157:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#
 ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.157:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#@Hope_Net-join-us-on-Telegram
 ss://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.157:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#[72560
@@ -608,6 +607,7 @@ ss://2a9f4af9-d04d-4c34-8170-89f77dce717c@108.61.178.31:30345?security=none&encr
 ss://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=/&security=none&type=ws#
 ss://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@45.130.125.18:80?path=/&security=&encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&type=ws#
 ss://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/&security=none&encryption=none&type=ws#
+ss://2af75a89-3c3e-42d0-9f4e-b2aea5c54148@snapp.ir:80?path=/&security=none&encryption=none&host=srv.diamond-theBEST.online&type=ws#NormanV2ray-95
 ss://2af75a89-3c3e-42d0-9f4e-b2aea5c54148@snapp.ir:80?path=/&security=none&encryption=none&host=srv.diamond-theBEST.online&type=ws#V2rayng_Fast
 ss://2af75a89-3c3e-42d0-9f4e-b2aea5c54148@snapp.ir:80?path=/&security=none&encryption=none&host=srv.diamond-theBEST.online&type=ws#V2rayng_Fastvless://dd7de766-3399-479e-8167-536cd74260b5@snapp.ir:8080?encryption=none&type=ws&path=/voip&host=x.dject.ir#V2rayng_Fastvless://5b9e845d-6915-450f-b4cd-6938cf8cb8ab@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#V2rayng_Fastvless://75484d1f-fad7-44c5-932a-1185883d3508@45.134.97.116:31254?type=xhttp&encryption=none&path=/Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa-Beraghsa&host=&mode=auto&x_padding_bytes=100-1000&extra=
 ss://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#

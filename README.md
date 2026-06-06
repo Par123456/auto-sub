@@ -1,12 +1,12 @@
 # 🚀 Auto Sub - V2Ray & MTProto Collector
 
-> **آپدیت خودکار هر ۲ ساعت | آخرین آپدیت: `2026-06-06 12:37:48 UTC`**
+> **آپدیت خودکار هر ۲ ساعت | آخرین آپدیت: `2026-06-06 12:41:36 UTC`**
 
 ## 📊 آمار پروتکل‌ها و لینک‌های Raw
 
 | پروتکل | تعداد | لینک دانلود |
 |--------|-------|------------|
-| **VMess** | 583 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vmess.txt) |
+| **VMess** | 582 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vmess.txt) |
 | **VLess** | 4,361 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vless.txt) |
 | **Trojan** | 1,368 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/trojan.txt) |
 | **Shadowsocks** | 9,601 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ss.txt) |
@@ -19,8 +19,8 @@
 | **Hysteria2** | 87 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/hysteria2.txt) |
 | **SSH** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ssh.txt) |
 | **WireGuard** | 8 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/wireguard.txt) |
-| **MTProto (Telegram Proxy)** | 88 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/mtproto.txt) |
-| **🎯 همه V2Ray** | **16,085** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config.txt) |
+| **MTProto (Telegram Proxy)** | 83 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/mtproto.txt) |
+| **🎯 همه V2Ray** | **16,084** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config.txt) |
 | **🪶 نسخه سبک** | **15** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config_lite.txt) |
 
 ---
@@ -48,3 +48,26 @@
 ### نکته مهم:
 - لینک‌های MTProto را مستقیماً در تلگرام باز کنید تا به عنوان پروکسی اضافه شوند.
 - لینک‌های V2Ray را در کلاینت مربوطه به عنوان Subscription وارد کنید.
+
+---
+
+## ⚙️ تنظیمات
+
+این پروژه از Environment Variables برای تنظیمات پشتیبانی می‌کند:
+
+| متغیر | توضیح | پیش‌فرض |
+|-------|-------|---------|
+| `CHANNELS_FILE` | فایل لیست کانال‌ها | `channels.json` |
+| `SOURCES_FILE` | فایل لیست منابع | `sources.json` |
+| `MAX_WORKERS` | تعداد thread های همزمان | `10` |
+| `TIMEOUT` | زمان انتظار برای درخواست‌ها | `20` |
+| `LITE_CONFIG_COUNT` | تعداد کانفیگ در نسخه سبک | `15` |
+| `REPO_OWNER` | نام کاربری GitHub | `Par123456` |
+| `REPO_NAME` | نام repository | `auto-sub` |
+| `BRANCH` | شاخه branch | `main` |
+
+---
+
+## 📝 لایسنس
+
+این پروژه تحت لایسنس MIT منتشر شده است.
