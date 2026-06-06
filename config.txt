@@ -779,6 +779,7 @@ vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryptio
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@v2ray_configs_pools
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
@@ -4710,7 +4711,6 @@ vless://f788e136-b245-4617-9d41-b505c7f41ef9@deu196.unboundaccess.org:443?securi
 vless://f7e08961-ba18-4ac8-aac0-e925107417af@discord.gg:443?path=/&;security=tls&;encryption=none&;alpn=h2,http/1.1&;host=de.vpncustomize.Website&;fp=chrome&;type=ws&;sni=de.vpncustomize.Website#
 vless://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2RFA
 vless://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fast
-vless://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fastvless://d40d9c94-45e9-40da-9e6e-374f7f3c3c3d@snapp.ir:80?type=ws&encryption=none&path=/&host=worldt.wawariweb.ir&security=none#V2rayng_Fastvless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#V2rayng_Fastvless://1da09875-d12a-443e-a5c2-766f6a422585@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fast
 vless://f8175a23-628b-43d0-bccc-2629505354fc@104.18.139.67:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra=
 vless://f8175a23-628b-43d0-bccc-2629505354fc@nl2.gamelistak.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra=
 vless://f85d180d-8e11-4b76-9af4-8d5e2a091a72@157.230.96.148:36424?encryption=none&headerType=http&host=www.google.com&path=/@napsternetv20&security=none&type=tcp#
@@ -6506,6 +6506,7 @@ ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryption=n
 ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryption=none&headerType=none&type=tcp#@vmesskhodam
 ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#
 ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@v2ray_configs_pools
+ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#
 ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha
 ss://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
@@ -15681,7 +15682,6 @@ ss://f788e136-b245-4617-9d41-b505c7f41ef9@deu196.unboundaccess.org:443?security=
 ss://f7e08961-ba18-4ac8-aac0-e925107417af@discord.gg:443?path=/&;security=tls&;encryption=none&;alpn=h2,http/1.1&;host=de.vpncustomize.Website&;fp=chrome&;type=ws&;sni=de.vpncustomize.Website#
 ss://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2RFA
 ss://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fast
-ss://f80e8b3d-422a-49ee-b202-daaf596883ca@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fastvless://d40d9c94-45e9-40da-9e6e-374f7f3c3c3d@snapp.ir:80?type=ws&encryption=none&path=/&host=worldt.wawariweb.ir&security=none#V2rayng_Fastvless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#V2rayng_Fastvless://1da09875-d12a-443e-a5c2-766f6a422585@185.143.233.122:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus2.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus2.frtshop.ir#V2rayng_Fast
 ss://f8175a23-628b-43d0-bccc-2629505354fc@104.18.139.67:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra=
 ss://f8175a23-628b-43d0-bccc-2629505354fc@nl2.gamelistak.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra=
 ss://f85d180d-8e11-4b76-9af4-8d5e2a091a72@157.230.96.148:36424?encryption=none&headerType=http&host=www.google.com&path=/@napsternetv20&security=none&type=tcp#
