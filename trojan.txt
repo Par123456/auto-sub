@@ -1349,6 +1349,7 @@ trojan://uIpegO8M9A@8.6.112.190:8443?path=/720f09dba195249b423f771661162528/work
 trojan://v2ray_vpn_ir@188.114.97.6:443?security=tls&sni=sadszdx.global.ssl.fastly.net.b5r.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=https://chatgpt.com#
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#
 trojan://wpLP2iWsEQWw@15.237.176.178:16975?sni=appsvs.shop#
+trojan://wtMJLiFlvt@188.114.97.6:443?security=tls&sni=dd.aananas.ir.&allowInsecure=1&fp=firefox&type=ws&path=/?ed=2048#@V2ray-vpn_ir
 trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#
 trojan://xl87654321@stonebreak.online:443?security=tls&headerType=none&type=tcp#
 trojan://xl87654321@stonebreak.online:443?security=tls&headerType=none&type=tcp#ConfigV2RayNGvless://91110415-2a1d-4f8b-833c-3cb3a7d2db89@VPNCUSTOMIZE.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#ConfigV2RayNGtrojan://ejUhS8iObS@vipmodchanel1.dodolltala.ga:8443?mode=gun&security=tls&type=grpc&serviceName=&sni=joinvipmodchanel.dodolltala.ga#
