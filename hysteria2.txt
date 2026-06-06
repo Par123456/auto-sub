@@ -31,6 +31,7 @@ hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-pa
 hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@internet_azad_2026
 hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@v2ray313
 hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#internet_azad_2026
+hysteria2://Masir_Sefid@18.157.222.169:44044?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@GozargahAzad
 hysteria2://Masir_Sefid@18.157.222.169:44044?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@filembad
 hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@internet_azad_2026
@@ -48,7 +49,9 @@ hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-p
 hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#internet_azad_2026
 hysteria2://Masir_Sefid@18.157.222.169:8880?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#
+hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@bored_vpn
 hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@internet_azad_2026
+hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@mehrosaboran
 hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#@meliproxyy
 hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#https://t.me/v2rayNplus
 hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#telegram
@@ -108,7 +111,6 @@ hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-pass
 hysteria2://miaoge110@173.249.208.148:21180?insecure=1&fp=&sni=&obfs=&obfs-password=#
 hysteria2://none@18.157.222.169:54040?insecure=0&sni=free.ma.none.shop&obfs=salamander&obfs-password=none#@Ap_Ir6
 hysteria2://none@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=none&insecure=0&sni=free.ma.none.shop#@Ap_Ir6
-hysteria2://rstnnl2705:QtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@reddeadfan.rd-team.ru:2026?security=tls&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2&insecure=1&sni=reddeadfan.rd-team.ru#
 hysteria2://rstnnl2705:ZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@144.31.224.163:8932/?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#
 hysteria2://rstnnl2705:ZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@144.31.224.163:8932/?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#@Ap_Ir6
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#SCP2

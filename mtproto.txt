@@ -46,4 +46,3 @@ tg://proxy?server=94.130.163.24&port=443&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=94.130.163.60&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=95.216.41.109&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=95.217.38.123&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=channel.t.me.tradeip.store&port=443&secret=dd9c214385c44ee56c5f8d0a0f07475c3f
