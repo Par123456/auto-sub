@@ -58,17 +58,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "🔄 Auto-update configs - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "🔄 Auto-update configs & MTProto proxies - $(date +'%Y-%m-%d %H:%M:%S UTC')"
           git push
       
       - name: Generate Summary
         run: |
           echo "## 📊 آمار آخرین اجرا" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "| فایل | تعداد کانفیگ |" >> $GITHUB_STEP_SUMMARY
+          echo "| فایل | تعداد کانفیگ/پروکسی |" >> $GITHUB_STEP_SUMMARY
           echo "|------|-------------|" >> $GITHUB_STEP_SUMMARY
           
-          for file in config.txt config_lite.txt; do
+          for file in config.txt config_lite.txt mtproto.txt; do
             if [ -f "$file" ]; then
               count=$(wc -l < "$file")
               echo "| $file | $count |" >> $GITHUB_STEP_SUMMARY
@@ -79,10 +79,10 @@ jobs:
           echo "### پروتکل‌ها:" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
-          for proto in vmess vless trojan ss ssr tuic socks juicity reality hysteria hysteria2 ssh wireguard; do
+          for proto in vmess vless trojan ss ssr tuic socks juicity reality hysteria hysteria2 ssh wireguard mtproto; do
             if [ -f "${proto}.txt" ]; then
               count=$(wc -l < "${proto}.txt")
-              echo "- **${proto}**: $count کانفیگ" >> $GITHUB_STEP_SUMMARY
+              echo "- **${proto}**: $count آیتم" >> $GITHUB_STEP_SUMMARY
             fi
           done
           
