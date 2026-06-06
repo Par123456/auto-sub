@@ -17,10 +17,6 @@ on:
 permissions:
   contents: write
 
-# 🔧 رفع هشدار Node.js 20
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   collect-configs:
     runs-on: ubuntu-latest
