@@ -12,19 +12,26 @@ on:
       - 'sources.json'
       - 'collector.py'
       - '.github/workflows/collector.yml'
+      - 'requirements.txt'
 
 permissions:
   contents: write
 
+# 🔧 رفع هشدار Node.js 20
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   collect-configs:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -35,10 +42,28 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "⚠️ requirements.txt not found, installing manually..."
+            pip install requests beautifulsoup4 lxml
+          fi
+      
+      - name: Create Default JSON Files If Missing
+        run: |
+          if [ ! -f channels.json ]; then
+            echo '{"channels": []}' > channels.json
+            echo "📝 Created default channels.json"
+          fi
+          if [ ! -f sources.json ]; then
+            echo '{"sources": []}' > sources.json
+            echo "📝 Created default sources.json"
+          fi
       
       - name: Run Collector Script
+        id: collector
         run: python collector.py
+        continue-on-error: true
       
       - name: Check for Changes
         id: check_changes
@@ -62,6 +87,7 @@ jobs:
           git push
       
       - name: Generate Summary
+        if: always()
         run: |
           echo "## 📊 آمار آخرین اجرا" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
@@ -70,8 +96,10 @@ jobs:
           
           for file in config.txt config_lite.txt mtproto.txt; do
             if [ -f "$file" ]; then
-              count=$(wc -l < "$file")
+              count=$(wc -l < "$file" | tr -d ' ')
               echo "| $file | $count |" >> $GITHUB_STEP_SUMMARY
+            else
+              echo "| $file | 0 |" >> $GITHUB_STEP_SUMMARY
             fi
           done
           
@@ -81,7 +109,7 @@ jobs:
           
           for proto in vmess vless trojan ss ssr tuic socks juicity reality hysteria hysteria2 ssh wireguard mtproto; do
             if [ -f "${proto}.txt" ]; then
-              count=$(wc -l < "${proto}.txt")
+              count=$(wc -l < "${proto}.txt" | tr -d ' ')
               echo "- **${proto}**: $count آیتم" >> $GITHUB_STEP_SUMMARY
             fi
           done
