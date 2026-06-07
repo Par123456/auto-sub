@@ -1,3 +1,4 @@
+https://t.me/proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&
 https://t.me/proxy?server=128.140.113.66&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=135.181.233.224&port=8443&secret=FgMBAgABAAH8AxOG4kw63Q
 https://t.me/proxy?server=149.57.1.117&port=85&secret=7gAA8A8Pd1VV////9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
@@ -25,13 +26,13 @@ https://t.me/proxy?server=185.223.93.114&port=80&secret=eefc56fb73c972a2309c4787
 https://t.me/proxy?server=185.234.100.103&port=2053&secret=10e57c97f109bdea6b1df64c9501609d
 https://t.me/proxy?server=188.245.121.80&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=188.34.162.30&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=195.254.165.20&port=8080&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=195.254.165.21&port=2053&secret=dd1603010200010001fc030386e24c3add
 https://t.me/proxy?server=206.206.103.122&port=2053&secret=10e57c97f109bdea6b1df64c9501609d
 https://t.me/proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=45.157.118.116&port=2053&secret=10e57c97f109bdea6b1df64c9501609d
 https://t.me/proxy?server=5.101.117.221&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=54.38.136.46&port=8443&secret=dd3353e4f80af755fdd7297ac71b319ee7
+https://t.me/proxy?server=54.38.136.46&port=8443&secret=dd3353e4f80af755fdd7297ac71b319ee7&
 https://t.me/proxy?server=62.60.155.8&port=2053&secret=10e57c97f109bdea6b1df64c9501609d
 https://t.me/proxy?server=65.108.201.16&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.108.29.211&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -60,7 +61,6 @@ https://t.me/proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200
 https://t.me/proxy?server=tail.irpower-e.ir&port=443&secret=7gffffffff_f_Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ==
 https://t.me/proxy?server=web.irpower-e.ir&port=443&secret=7gffffffff_f_Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ==
 tg://proxy?server=213.133.102.101&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519130220c25d0
 tg://proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.201.16&port=443&secret=dd104462821249bd7ac519130220c25d09
