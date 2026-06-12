@@ -44,7 +44,8 @@ hysteria2://Masir_Sefid@84.234.28.207:443?insecure=0&sni=Api.masir-sefid-1.my&ob
 hysteria2://Masir_Sefid@84.234.28.207:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=443-20000,40000-50000&sni=Api.masir-sefid-1.my#@internet_azad_2026
 hysteria2://Masir_Sefid@84.234.29.238:443?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#@internet_azad_2026
 hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=443-20000,40000-50000&sni=Api.masir-sefid-1.my#@internet_azad_2026
-hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?insecure=0&fp=&sni=panel.cobalttoolsgithub.online&obfs=salamander&obfs-password=gxXGwphUe6APbFFsWA#
+hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?security=tls&obfs=salamander&obfs-password=gxXGwphUe6APbFFsWA&insecure=0#
+hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?security=tls&obfs=salamander&obfs-password=gxXGwphUe6APbFFsWA&insecure=0&sni=panel.cobalttoolsgithub.online#
 hysteria2://Vitamini_Channel@cdn.accuratenetworkchecker.ir:59095?insecure=1&sni=cdn.accuratenetworkchecker.ir&obfs=salamander&obfs-password=ao5xmpi6qiedxrs2#
 hysteria2://Vitamini_Channel@cdn.accuratenetworkchecker.ir:59095?security=tls&obfs=salamander&obfs-password=ao5xmpi6qiedxrs2&insecure=1&sni=cdn.accuratenetworkchecker.ir#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#
