@@ -5,9 +5,6 @@ hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
-hysteria2://@Masir_Sefid@18.157.222.169:4040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
-hysteria2://@Masir_Sefid@18.157.222.169:44044?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
-hysteria2://@Masir_Sefid@18.157.222.169:54040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#
 hysteria2://Masir_Sefid@206.189.58.246:1040?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#@prrofile_purple
@@ -44,8 +41,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://ff488c48-b745-4d65-a6a1-0339be0b7fd7@okrs01.7770123.xyz:15219?alpn=h3&sni=okrs01.7770123.xyz#
-hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2,h3&fp=chrome&sni=ger1.riziro.ir&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv#
-hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&fp=chrome&sni=ger1.riziro.ir#
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#SCP2
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#SCP3
 hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#SCP1
