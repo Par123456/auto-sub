@@ -23,6 +23,7 @@ hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&obfs=salamander&obfs-pa
 hysteria2://Masir_Sefid@207.154.242.160:4040?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@207.154.242.160:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api.masir-sefid-1.my#
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz&insecure=1#
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
