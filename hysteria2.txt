@@ -3,7 +3,6 @@ hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=0&
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?allowInsecure=1&insecure=1&security=tls&sni=cn.cremedelamer.com#
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=se.esimpson.org#
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#
