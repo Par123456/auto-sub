@@ -1,11 +1,7 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls&insecure=0&sni=de1.xiaoliyu.cyou#
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=0&sni=slopllex.app#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?allowInsecure=1&insecure=1&security=tls&sni=cn.cremedelamer.com#
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#@prrofile_purple
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
@@ -36,6 +32,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://dongtaiwang.com@62.210.10.108:22000/?insecure=1&sni=www.microsoft.com#
+hysteria2://dongtaiwang.com@62.210.10.108:22000?insecure=1&sni=www.microsoft.com#
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://ff488c48-b745-4d65-a6a1-0339be0b7fd7@okrs01.7770123.xyz:15219?alpn=h3&sni=okrs01.7770123.xyz#
@@ -44,9 +41,12 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=sala
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#SCP2
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#SCP3
 hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#SCP1
+hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3,h2,http/1.1&fp=chrome&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#
+hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?insecure=0&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#MiX--@V2rayAlpha--20
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&fm=
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?security=tls&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&insecure=0&pinSHA256=28:FF:B6:98:9F:1F:81:43:C7:A7:68:8C:D3:99:9D:5B:8C:97:C9:C4:27:32:A1:86:62:65:38:D2:2A:BA:1C:AD&sni=www.microsoft.com#@freenettir
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?security=tls&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&insecure=0&pinSHA256=28:FF:B6:98:9F:1F:81:43:C7:A7:68:8C:D3:99:9D:5B:8C:97:C9:C4:27:32:A1:86:62:65:38:D2:2A:BA:1C:AD&sni=www.microsoft.com#@meliproxyy
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?security=tls&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&insecure=0&pinSHA256=28:FF:B6:98:9F:1F:81:43:C7:A7:68:8C:D3:99:9D:5B:8C:97:C9:C4:27:32:A1:86:62:65:38:D2:2A:BA:1C:AD&sni=www.microsoft.com#MiX--@V2rayAlpha--20
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?security=tls&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&insecure=0&pinSHA256=28:FF:B6:98:9F:1F:81:43:C7:A7:68:8C:D3:99:9D:5B:8C:97:C9:C4:27:32:A1:86:62:65:38:D2:2A:BA:1C:AD&sni=www.microsoft.com#MiX--@V2rayAlpha--20vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:3083?mode=auto&path=/api/v2/content&security=reality&alpn=h2,http/1.1&encryption=none&pbk=J_ckStsNgTS1E0Xyppi0bOL1Zs0Zvi_xEgBpXBSGMkY&fp=firefox&type=xhttp&sni=yahoo.com&sid=a491d560745a2f1e#MiX--@V2rayAlpha--21vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@in.farafile.com:7185?security=reality&alpn=h2,http/1.1&encryption=none&pbk=PmmoEXhS1D8EyJQDEvMYI-KMmg7kRqhtVqRlLHABslc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=10a34ebe78af0b14#MiX--@V2rayAlpha--22vless://d20e61d1-6290-4da6-b389-0a857f3523d8@www.speedtest.net:2086?path=/?ed=2560&security=&encryption=mlkem768x25519plus.native.0rtt.ExFcRhIiPqlYiOBGWFR2SwKsnz25k7ilHc4xgTROnic&host=www.vipclubiran.ir&type=httpupgrade#MiX--@V2rayAlpha--23vless://d5338fe9-1ade-4181-90cd-37afd3363dfa@freesocks.work:2052?path=/api-v1&security=&encryption=none&host=pl.meeowww.qzz.io&type=ws#MiX--@V2rayAlpha--24vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@nl2.farafile.com:9563?mode=auto&path=/api/v2/content&security=reality&alpn=h2,http/1.1&encryption=none&pbk=HoN1o5vjUM3JVvAg1uYILdZpr4WUmCJwmm42cO3m1n4&fp=chrome&type=xhttp&sni=yahoo.com&sid=b0e27207d665ae1f#MiX--@V2rayAlpha--25vless://bd489e06-2b42-40d0-a98a-75e7fdae0781@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra=
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#
