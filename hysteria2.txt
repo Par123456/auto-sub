@@ -31,6 +31,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443/?sni=connect-ger2.gadmap.online#@ReleaseNet
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443?sni=connect-ger2.gadmap.online#@ReleaseNet
+hysteria2://cFihfSrWtH@185.250.41.245:443?insecure=1&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#
 hysteria2://cFihfSrWtH@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
