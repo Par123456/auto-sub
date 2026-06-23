@@ -15,6 +15,7 @@ hysteria2://7roz68utnk7wgogj@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.r
 hysteria2://7roz68utnk7wgogj@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#
 hysteria2://7roz68utnk7wgogj@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+hysteria2://CRzpXvIiyI@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#@prrofile_purple
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#@prrofile_purple
@@ -26,9 +27,7 @@ hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?security=tls&insecu
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#@vmesskhodam
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=1&sni=hy2-new.aspidnet.xyz#@vmesskhodam
-hysteria2://V2RayyNGvpn@185.250.41.245:443?insecure=1&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#
 hysteria2://V2RayyNGvpn@185.250.41.245:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#
-hysteria2://V2RayyNGvpn@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#
 hysteria2://V2RayyNGvpn@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir
