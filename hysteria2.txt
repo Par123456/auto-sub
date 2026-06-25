@@ -18,12 +18,12 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.231.108.76:443?insecure=1&sni=https://t.
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https://t.me/oneclickvpnkeys#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.203.4.232:443?insecure=1&sni=https://t.me/WangCai2
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.203.4.232:443?insecure=1&sni=https://t.me/oneclickvpnkeys#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy1.466688.xyz:443?insecure=1&sni=https://t.me/daily_free_vpn#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy2.466688.xyz:443?sni=https://t.me/daily_free_vpn&insecure=1&allowInsecure=1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy3.466688.xyz:443?insecure=1&sni=https://t.me/QiangLieTuiJian#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy3.466688.xyz:443?sni=https://t.me/QiangLieTuiJian&insecure=1&allowInsecure=1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy4.466688.xyz:443?insecure=1&sni=https://t.me/QiangLieTuiJian#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy4.466688.xyz:443?sni=https://t.me/QiangLieTuiJian&insecure=1&allowInsecure=1#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy5.466688.xyz:443/?insecure=1&sni=https://t.me/WangCai2
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
@@ -51,6 +51,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b95dd8e5-2758-408f-be99-9362eecee609@191.44.113.251:10808?sni=files.fantoff.online#
 hysteria2://cFihfSrWtH@185.250.41.245:443?insecure=1&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#telegram
 hysteria2://cFihfSrWtH@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1#telegram
+hysteria2://dJtElQSz4v@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me/V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://ff488c48-b745-4d65-a6a1-0339be0b7fd7@okrs01.7770123.xyz:15219?alpn=h3&sni=okrs01.7770123.xyz#
