@@ -1,15 +1,15 @@
 # 🚀 Auto Sub - V2Ray & MTProto Collector
 
-> **آپدیت خودکار هر ۲ ساعت | آخرین آپدیت: `2026-06-27 19:38:21 UTC`**
+> **آپدیت خودکار هر ۲ ساعت | آخرین آپدیت: `2026-06-27 21:11:50 UTC`**
 
 ## 📊 آمار پروتکل‌ها و لینک‌های Raw
 
 | پروتکل | تعداد | لینک دانلود |
 |--------|-------|------------|
-| **VMess** | 735 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vmess.txt) |
-| **VLess** | 5,613 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vless.txt) |
-| **Trojan** | 2,045 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/trojan.txt) |
-| **Shadowsocks** | 11,587 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ss.txt) |
+| **VMess** | 712 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vmess.txt) |
+| **VLess** | 5,187 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vless.txt) |
+| **Trojan** | 1,971 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/trojan.txt) |
+| **Shadowsocks** | 11,117 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ss.txt) |
 | **SSR** | 75 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ssr.txt) |
 | **TUIC** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/tuic.txt) |
 | **Socks** | 1 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/socks.txt) |
@@ -20,7 +20,7 @@
 | **SSH** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ssh.txt) |
 | **WireGuard** | 8 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/wireguard.txt) |
 | **MTProto (Telegram Proxy)** | 72 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/mtproto.txt) |
-| **🎯 همه V2Ray** | **20,126** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config.txt) |
+| **🎯 همه V2Ray** | **19,133** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config.txt) |
 | **🪶 نسخه سبک** | **15** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config_lite.txt) |
 
 ---
