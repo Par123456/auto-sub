@@ -1,0 +1,1 @@
+tuic://383737a2-a196-44b6-a9ac-4f8cc23c9637:383737a2-a196-44b6-a9ac-4f8cc23c9637@107.173.7.186:11393?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#
