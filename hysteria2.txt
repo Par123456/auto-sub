@@ -56,6 +56,7 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.254:8449/?insecure=1
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.254:8449/?insecure=1&sni=sni.fi-m247-02.com#2
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.254:8449?insecure=1&sni=sni.fi-m247-02.com#
 hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@45.88.42.29:50117?insecure=1&sni=iosapps.itunes.apple.com#
+hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:5443/?sni=france-2.hysteria.ltd#
 hysteria2://653m8mmiy7048p0f@2.26.49.16:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#
 hysteria2://653m8mmiy7048p0f@2.26.49.16:443?security=tls&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&insecure=0&sni=social.klipp.su#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
@@ -63,10 +64,12 @@ hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=
 hysteria2://7Z47Z7yK4CpDBW6ht3XifQopIW7WVmEM@192.220.32.174:443/?insecure=1&sni=bing.com#5
 hysteria2://7Z47Z7yK4CpDBW6ht3XifQopIW7WVmEM@192.220.32.174:443?insecure=1&sni=bing.com#5
 hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@31.77.144.133:443?alpn=h3&sni=argg9.auragg.org#
+hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@31.77.144.133:443?insecure=0&sni=argg9.auragg.org&obfs=&obfs-password=#
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+hysteria2://98dab41c-f18a-406b-8de2-3cc8bb797d5d@144.31.224.188:443?insecure=0&sni=argglive.auragg.org&obfs=&obfs-password=#
 hysteria2://AmWCbxhVSBz7b1XL9ZNJSReMCxdFZlxX@107.173.11.163:36713/?insecure=1&sni=bing.com#
-hysteria2://AmWCbxhVSBz7b1XL9ZNJSReMCxdFZlxX@107.173.11.163:36713/?insecure=1&sni=bing.com#@meliproxyy
 hysteria2://AmWCbxhVSBz7b1XL9ZNJSReMCxdFZlxX@107.173.11.163:36713?insecure=1&sni=bing.com#
+hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?insecure=0&sni=nl.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.60.114:443/?insecure=1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.60.114:443?insecure=1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443/?insecure=1&sni=https://t.me/WangCai2
@@ -89,7 +92,6 @@ hysteria2://Unb9YTYVSw@oracle1.chenlan.top:11573?alpn=h3&insecure=1&sni=oracle1.
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#@prrofile_purple
 hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#@prrofile_purple
 hysteria2://V2Rayyngvpn@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#
-hysteria2://V2Rayyngvpn@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
@@ -140,5 +142,6 @@ hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#SCP
 hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#
 hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#@V2RayyNGvpn
+hysteria2://w1BoB6s3L3@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https://www.calmloud.com#
 hysteria2://zhangyang@130.61.50.75:6443?security=tls&insecure=1&sni=https://www.calmloud.com#
