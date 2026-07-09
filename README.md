@@ -1,26 +1,26 @@
 # 🚀 Auto Sub - V2Ray & MTProto Collector
 
-> **آپدیت خودکار هر ۲ ساعت | آخرین آپدیت: `2026-07-09 15:25:21 UTC`**
+> **آپدیت خودکار هر ۲ ساعت | آخرین آپدیت: `2026-07-09 18:03:14 UTC`**
 
 ## 📊 آمار پروتکل‌ها و لینک‌های Raw
 
 | پروتکل | تعداد | لینک دانلود |
 |--------|-------|------------|
-| **VMess** | 381 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vmess.txt) |
-| **VLess** | 7,270 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vless.txt) |
-| **Trojan** | 2,512 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/trojan.txt) |
-| **Shadowsocks** | 12,999 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ss.txt) |
-| **SSR** | 51 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ssr.txt) |
+| **VMess** | 366 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vmess.txt) |
+| **VLess** | 7,291 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/vless.txt) |
+| **Trojan** | 2,427 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/trojan.txt) |
+| **Shadowsocks** | 12,997 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ss.txt) |
+| **SSR** | 55 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ssr.txt) |
 | **TUIC** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/tuic.txt) |
 | **Socks** | 4 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/socks.txt) |
 | **Juicity** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/juicity.txt) |
 | **Reality** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/reality.txt) |
 | **Hysteria** | 2 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/hysteria.txt) |
-| **Hysteria2** | 125 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/hysteria2.txt) |
+| **Hysteria2** | 111 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/hysteria2.txt) |
 | **SSH** | 0 | [❌ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/ssh.txt) |
 | **WireGuard** | 8 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/wireguard.txt) |
-| **MTProto (Telegram Proxy)** | 12 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/mtproto.txt) |
-| **🎯 همه V2Ray** | **23,352** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config.txt) |
+| **MTProto (Telegram Proxy)** | 13 | [✅ Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/mtproto.txt) |
+| **🎯 همه V2Ray** | **23,261** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config.txt) |
 | **🪶 نسخه سبک** | **15** | [📥 Raw](https://raw.githubusercontent.com/Par123456/auto-sub/main/config_lite.txt) |
 
 ---
