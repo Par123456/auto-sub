@@ -67,12 +67,10 @@ hysteria2://Hd04Vxxpn2@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=sala
 hysteria2://Hd04Vxxpn2@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#
-hysteria2://TGzLlWQaFb@91.107.152.188:40460?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=
-hysteria2://TGzLlWQaFb@91.107.152.188:40460?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#@GozargahAzad
+hysteria2://QjdEEystFJ@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://TGzLlWQaFb@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#
 hysteria2://TGzLlWQaFb@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://TWlkdqFSQH@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#V2RayyNGvpn
-hysteria2://TWlkdqFSQH@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#V2RayyNGvpn
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#@prrofile_purple
 hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#@prrofile_purple
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#
