@@ -5,8 +5,9 @@ hysteria2://653m8mmiy7048p0f@2.26.49.16:443?insecure=0&sni=social.klipp.su&obfs=
 hysteria2://653m8mmiy7048p0f@2.26.49.16:443?security=tls&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&insecure=0&sni=social.klipp.su#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?insecure=0&sni=argg3.auragg.org&obfs=&obfs-password=#
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?insecure=0&sni=sh02.auragg.org&obfs=&obfs-password=#
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sh02.auragg.org:443?sni=sh02.auragg.org#
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#@GozargahAzad
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#@Leecher56
@@ -39,7 +40,6 @@ hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@sg.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#w
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?insecure=0&sni=argg3.auragg.org#
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@KAFING_2
@@ -49,6 +49,7 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#4
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52079?insecure=0&sni=&obfs=salamander&obfs-password=gazf7r9a0d4hc5nz#
 hysteria2://eltgrek81o6w5cd4@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#
 hysteria2://eltgrek81o6w5cd4@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#
 hysteria2://eltgrek81o6w5cd4@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#
