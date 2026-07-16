@@ -1,8 +1,11 @@
 hysteria2://038663b35fe801158d3eca2dae5a6fb1@69.63.220.227:443?insecure=1&obfs=salamander&obfs-password=7e3ea7dfee4694e5e0e73383&sni=69.63.220.227#
 hysteria2://3uIVdQh2vc@140.233.177.48:33884/?insecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&sni=www.oracle.com#
 hysteria2://3uIVdQh2vc@140.233.177.48:33884?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#
+hysteria2://7466549e-812f-4b33-b09b-c3e132e6e51b@159.65.79.184:443?insecure=1&sni=addons.mozilla.org#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#
+hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449?insecure=1&sni=jongjmi.odnako.site#
+hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#@Leecher56
@@ -21,6 +24,8 @@ hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#kurdconfig
+hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?insecure=1&sni=key-hm-at.1cooldns.com#
+hysteria2://RKJDOKrcIZ@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
 hysteria2://V2RayyNGvpn@51.89.225.225:58410?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=TeLeGRam=V2RayyNGvpn#
 hysteria2://V2RayyNGvpn@51.89.225.225:58410?security=tls&obfs=salamander&obfs-password=TeLeGRam=V2RayyNGvpn&insecure=1&pinSHA256=a2641ed53b3fbad308659ac209a522aaffacbac7ac2c6e88d4d7a2f3c459aff7&sni=www.oracle.com#
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#@prrofile_purple
@@ -74,8 +79,6 @@ hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&ob
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#SCP3
 hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#SCP1
 hysteria2://tf5LINcpQy@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#@Alpha_v2rayIP
-hysteria2://tf5LINcpQy@91.107.152.188:40460?pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&security=tls&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1#@Napsternetvirani
 hysteria2://tf5LINcpQy@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#
-hysteria2://tf5LINcpQy@91.107.152.188:40460?sni=www.amd.com&obfs-password=t-me-V2RayyNGvpn&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&insecure=1&security=tls&obfs=salamander#@Alpha_v2rayIP
 hysteria2://vVaz4PV7B7@140.233.177.48:33884?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#
 hysteria2://vVaz4PV7B7@140.233.177.48:33884?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=8a93949bea6dc943bc3af58adc667972de05482d30e9c41fc32959700c0db029&sni=www.oracle.com#
