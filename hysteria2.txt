@@ -4,7 +4,6 @@ hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#
 hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449/?sni=jongjmi.odnako.site#
 hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449?sni=jongjmi.odnako.site#
-hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@soskeynets.odnako.site:8449/?sni=jongjmi.odnako.site#
 hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@soskeynets.odnako.site:8449?sni=jongjmi.odnako.site#
 hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#
 hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-power-machine.roxa.org#
