@@ -35,6 +35,7 @@ trojan://-----BanV2ray----@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:2089?type
 trojan://-----BanV2ray----@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:2089?type=grpc&mode=gun&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&security=reality&sni=chi.yahoo.com&fp=chrome&spx=/#EPODONIOS
 trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:62816?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#
 trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:62816?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#@tootffarangi
+trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:62816?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com#filembad-38
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#EPODONIOS
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#
@@ -140,6 +141,7 @@ trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#
 trojan://27876_t7d7f4e3f@23.142.200.175:443?security=tls#
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#
 trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=support.zoom.us.blackshadow.dpdns.org&type=ws&host=support.zoom.us.blackshadow.dpdns.org&path=/195.123.218.174-443#B
 trojan://2dab5d78-5c56-4252-850d-c037753a40db@51.81.211.171:443?security=tls#
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@falungong.19890604.day:10823?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#TG
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xibaozi.19890604.day:10850?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#TG
@@ -155,6 +157,7 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.154.96.50:18000?sni=vpn.rnmcnm.com&type=ws&path=/trojan#B
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#
 trojan://4aFbwy5BHa@151.101.34.144:443?alpn=h2,http/1.1&path=/db&security=tls&mode=auto&sni=global.fastly.com&type=xhttp&allowInsecure=0&insecure=0&host=edgezvx.global.ssl.fastly.net#@Alpha_v2rayIP
 trojan://4aFbwy5BHa@151.101.34.144:443?alpn=h2,http/1.1&path=/db&security=tls&mode=auto&sni=global.fastly.com&type=xhttp&allowInsecure=0&insecure=0&host=edgezvx.global.ssl.fastly.net#EPODONIOS
@@ -182,6 +185,12 @@ trojan://4d111af8-5078-37e0-a583-34155f60b32c@152.70.143.228:44302?security=tls#
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=channel.v2bamdad.tech&allowInsecure=1&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX#
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#B
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#B
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#B
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#B
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#B
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#B
 trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#
 trojan://521314@104.248.161.136:443?path=/&security=tls&insecure=1&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=1&sni=tjplay.lxdxo.kdns.fr#
@@ -1108,6 +1117,7 @@ trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@Sylph
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#EPODONIOS
 trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#
 trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#canfingV2rayNG-46
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@prrofile_purple
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#@prrofile_purple
@@ -1323,6 +1333,7 @@ trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&typ
 trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#Mi168
 trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#
 trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#EPODONIOS
+trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#
 trojan://XG59623478@3.249.67.252:443?type=tcp&security=tls&headerType=none&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0#EPODONIOS
 trojan://XG59623478@calm-muskrat.rooster465.autos:443?security=tls#
 trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#EPODONIOS
