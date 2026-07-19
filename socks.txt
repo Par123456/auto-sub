@@ -1,9 +1,6 @@
 socks://Og@193.151.143.221:2083#@FarazV2ray
-socks://Og@193.242.208.197:10808#
-socks://Og@62.220.123.92:1089#
 socks://Og@62.220.123.92:1089#Tel-@ProxyMtAlpha
 socks://Og@89.44.112.13:1089#@FarazV2ray
 socks://Og@89.44.112.13:1089#@FarazV2raysocks://Og@193.151.143.221:2083#@FarazV2ray
 socks://Og@89.44.112.13:1089#Tel-@ProxyMtAlpha
-socks://Og@94.184.11.16:10808#
 socks://U0RQb3J3Rkp4YW9OckxpOjFAU29vblRlYW0@104.254.90.218:1080#@prrofile_purple
