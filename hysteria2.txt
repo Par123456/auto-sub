@@ -11,7 +11,6 @@ hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
 hysteria2://ALg6h4f8Mo@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#@AzarAndoozVPNbot
 hysteria2://ALg6h4f8Mo@91.107.152.188:31999?sni=www.amd.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e#@AzarAndoozVPNbot
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@81.27.102.215:8443/?sni=grape-power-pl.ddnsguru.com#
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@81.27.102.215:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@81.27.102.215:8443?sni=grape-power-pl.ddnsguru.com#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https://t.me/oneclickvpnkeys#
