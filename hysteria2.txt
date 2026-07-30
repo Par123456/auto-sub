@@ -20,6 +20,7 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=s
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#@v2raybaaz
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#Tel-@ProxyMtAlpha
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#Tel-@irconfiig
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga6.api3-max.ru:443?insecure=0&sni=taga6.api3-max.ru&obfs=&obfs-password=#
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443/?sni=ger.leontunel.ru#
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.gamestocke.ru#
@@ -36,8 +37,6 @@ hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=s
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercedes-grape.yyuyy.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443/?sni=mercedes-grape.yyuyy.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#
-hysteria2://9b08bee0-2615-46c6-8939-54b575517a26@78.159.240.215:443?insecure=1&sni=quic.tyr-agentstvo.tech#
-hysteria2://9b08bee0-2615-46c6-8939-54b575517a26@78.159.240.215:8443?insecure=1&sni=quic.tyr-agentstvo.tech#
 hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?insecure=0&sni=vhd.nth.gelzaro.ir&obfs=salamander&obfs-password=4b6gmo4jujpapx99#
 hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&obfs=salamander&obfs-password=4b6gmo4jujpapx99&insecure=0&sni=vhd.nth.gelzaro.ir#
 hysteria2://EaDTeupk9I@91.107.178.22:43913?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#
@@ -48,6 +47,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world&obfs=&obfs-password=#
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=5.255.102.165#
@@ -73,9 +73,9 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&alpn=h3&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#
-hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com&obfs=&obfs-password=#
 hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.233.191.174:56789?insecure=1&sni=ajax.microsoft.com#
 hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@68.155.86.187:56787?insecure=1&sni=ajax.microsoft.com#
+hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@ceo69.ceoiii.com:56789?insecure=1&sni=ajax.microsoft.com#
 hysteria2://c8L7Asi4ur@91.107.178.22:43913?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#
 hysteria2://c8L7Asi4ur@91.107.178.22:43913?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=990e8a1ca2efec24a7de4373c7123a78b23e9c3d18e10f0e026ddebf85e5b774&sni=assets.gateway-stream.com#
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433/?sni=de1-hy2.veilvpn.life#
@@ -91,7 +91,6 @@ hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=asse
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#@prrofile_purple
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443/?sni=azer-tea-grape.bumbleshrimp.com#
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?sni=azer-tea-grape.bumbleshrimp.com#
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#
 hysteria2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&insecure=0&sni=nl2.cleanersaz.help#@bored_vpn
 hysteria2://hy2_czaawdhc@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#@bored_vpn
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#
