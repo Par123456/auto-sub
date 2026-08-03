@@ -22,12 +22,11 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.a
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#3
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443?sni=taga5.api3-max.ru#3
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443/?sni=taga2.api3-max.ru#
-hysteria2://68a93e46-d251-45a8-8148-cf3601451021@a6.mhlnf.cn:22644?insecure=1&sni=www.bing.com#
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#@filembad
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?insecure=0&sni=usa1.spectrumproxy.shop&obfs=&obfs-password=#
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?security=tls&sni=usa1.spectrumproxy.shop&insecure=0#@filembad
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?#@filembad
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?insecure=0&sni=usa1.spectrumproxy.shop&obfs=&obfs-password=#
 hysteria2://76kyzc055ahiyfzy@95.217.96.131:52024?obfs=salamander&obfs-password=t72hzzenktxmrvgu&sni=assets.gateway-stream.com#
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com&security=tls&obfs=salamander#@Alpha_v2rayIP
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#
@@ -95,8 +94,6 @@ hysteria2://jeLq05gFPe@91.107.178.22:443?security=tls&obfs=salamander&obfs-passw
 hysteria2://jeLq05gFPe@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#MTMVPN
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn#@Selinc
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@Selinc
-hysteria2://reSpH6aX5g@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#
-hysteria2://reSpH6aX5g@185.253.117.217:443?security=tls&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn&insecure=1&pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&sni=www.intel.com#
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm=
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?insecure=1&sni=grape-turbo-fr.roxa.org#
