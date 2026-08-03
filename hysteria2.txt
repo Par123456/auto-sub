@@ -21,7 +21,6 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=s
 hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000/?insecure=1&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10&sni=ok.ru#4
 hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000?insecure=1&sni=ok.ru&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10#4
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#3
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443?sni=taga5.api3-max.ru#
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?insecure=1&sni=taga10.api3-max.ru&obfs=&obfs-password=#
