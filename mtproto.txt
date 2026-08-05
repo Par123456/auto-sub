@@ -36,13 +36,3 @@ https://t.me/proxy?server=syntax.lamari.info&port=443&secret=ee1603010200010001f
 https://t.me/proxy?server=tail.irpower-e.ir&port=443&secret=7gffffffff_f_Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ==
 https://t.me/proxy?server=takhasos.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=web.irpower-e.ir&port=443&secret=7gffffffff_f_Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ==
-tg://proxy?server=195.18.10.251&port=2500&secret=eecBAgAeeAfwEEOGEkwEeQAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=43.250.172.220&port=66&secret=dd32dc5fb1a92105b8e63562d63e79e712
-tg://proxy?server=46.101.183.119&port=8443&secret=9dedd5043e61e687e83aaae0d1c2b147
-tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=best.sosfrance.site&port=8080&secret=7rEAWa0qhm3OBvvp_Os7Ry5kb2NzLmdvb2dsZS5jb20=
-tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=kmskmskmrmkjylckyckitx.telegram-tirexnet.kdns.fr&port=25966&secret=ee352f028ed57c0a204e528d61c7c96d987777772e616d642e636f6d
-tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=lowpressure.simbol.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
-tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
