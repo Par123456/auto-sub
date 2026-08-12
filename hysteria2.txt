@@ -8,8 +8,10 @@ hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.n
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#@confiig_hub
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#@confiig_hub
 hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&sni=www.bing.com#
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou&obfs=&obfs-password=#
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443?sni=lin.cryptoofarm.com#
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:443?sni=pol.cryptoofarm.com#
+hysteria2://16b3793b-3335-4832-b1fd-877b2c5e15d6@42.200.231.126:8443?insecure=1&sni=store.nintendo.com.hk#
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@es1.xiaoliyu.cyou:4433?insecure=1&sni=es1.xiaoliyu.cyou#
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#
