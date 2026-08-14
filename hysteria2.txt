@@ -20,8 +20,6 @@ hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?obfs=salamander&obfs-password=
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#@Daily_Configs
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#@Daily_Configs
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#
-hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443/?sni=node-degame.bangboonet.ru#
-hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443?sni=node-degame.bangboonet.ru#
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52020?alpn=h3&fm=
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52020?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a#dc-udp-
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52021?alpn=h3&fm=
@@ -59,7 +57,7 @@ hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52000?ins
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52022?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#TELEGRAM:@ConfigV2RayNG
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52022?security=tls&obfs=salamander&alpn=h3&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#TELEGRAM:@ConfigV2RayNG
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#
+hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#ConfigV2RayNG
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#ConfigV2RayNG
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5#
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?security=tls&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5&insecure=0&sni=assets.gateway-stream.com#
@@ -88,6 +86,7 @@ hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@142.111.244.75:8443?sni=grape-power-pl.d
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443?sni=grape-power-pl.ddnsguru.com#
 hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#
+hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-nl-hy2.gigatapbot.top:1443?insecure=1&sni=pg-nl-hy2.gigatapbot.top#
 hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#
 hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5
 hysteria2://Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=IL+pm5
@@ -100,12 +99,9 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.122:8443?sni=grape
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?sni=grape-zet-turbo-nl.yyuyy.com#
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443?sni=grape-zet-turbo-nl.yyuyy.com#
 hysteria2://TelegramVPNJey@1.1.1.1:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm=
 hysteria2://TelegramVPNJey@1.1.1.1:37003?alpn=h3&fp=chrome&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#Telegram@VPNjey
 hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm=
@@ -149,6 +145,7 @@ hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@us4.xiaoliyu.cyou:443?insecure=
 hysteria2://gf1@185.111.109.40:443?insecure=1&sni=www.dell.com#
 hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#
 hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#
 hysteria2://o8qxh96m6i335s6k@gr.nexovip.cyou:46918?insecure=0&sni=gr.nexovip.cyou&obfs=salamander&obfs-password=w086cefx0803sepr#Tunnel
 hysteria2://o8qxh96m6i335s6k@gr.nexovip.cyou:46918?security=tls&obfs=salamander&obfs-password=w086cefx0803sepr&insecure=0&sni=gr.nexovip.cyou#
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#
@@ -163,11 +160,9 @@ hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm=
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.216:8443?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443/?sni=grape-turbo-fr.roxa.org#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443?insecure=0&sni=grape-turbo-fr.roxa.org&obfs=&obfs-password=#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443/?sni=grape-turbo-fr.roxa.org#
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#SCP2
 hysteria2://sharecentrepro@twgcp.sharecentre.online:4433?peer=twgcp.sharecentre.online&obfs=none#SCP3
