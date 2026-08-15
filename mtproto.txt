@@ -56,6 +56,7 @@ tg://proxy?server=49.13.36.168&port=8443&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=49.13.37.146&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=49.13.39.132&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=54.170.254.224&port=7443&secret=dd8802d710847a3e6f3b964244eb872902
+tg://proxy?server=62.238.104.36&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.109.217.108&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=65.109.30.208&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -106,6 +107,7 @@ tg://proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc0303
 tg://proxy?server=kabak.aqil.ru&port=443&secret=eead8d689a4deb72c55a6386dff02eaea86b6162616b2e6171696c2e7275
 tg://proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 tg://proxy?server=king-of-the-world.ir.bishdhaep.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=kosar.www.dotadotnet3.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d
 tg://proxy?server=lazeyka-15.getvelora.space&port=443&secret=eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275
 tg://proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
@@ -124,6 +126,7 @@ tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f
 tg://proxy?server=new.canmycheshm.co.uk.&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=nezapretil.bypasslab.abrdns.com&port=443&secret=ee2552621edbe0526ea130e36e484354e16e657a6170726574696c2e6279706173736c61622e616272646e732e636f6d
 tg://proxy?server=nnmm.me&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
+tg://proxy?server=opp.ban.www.dotadotnet3.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=panel-portal.managep.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 tg://proxy?server=pasha-make-tg-great-again.gemera.one&port=443&secret=ee704f1b022eff83a12dec8fb2da8f555f65682e766b2e636f6d
 tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -144,6 +147,7 @@ tg://proxy?server=vazheh.iranbetter.site&port=8443&secret=7ouCOGAd6TYPMyUUr6Vq2k
 tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=welcome.v6n.tech&port=443&secret=ee56b6cceda2b0d2297a75046f8cda124c7777772e626f6f6b696e672e636f6d
 tg://proxy?server=whitelist.startnetwork.shop&port=443&secret=ddaa8133d8cd5e986848e2f6119ab126ff
+tg://proxy?server=wwop.amir.dotadotnet3.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=www.dripglow.ir.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=www.vlorious.ir&port=443&secret=ee1603010200010001fc030386e24c3zdd68616A692E62616279
 tg://proxy?server=www.weblog.co.im&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
