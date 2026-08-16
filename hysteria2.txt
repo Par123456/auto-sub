@@ -56,7 +56,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?securi
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?security=tls&alpn=h3&insecure=1&sni=at164.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at188.mechvpn.online:443?insecure=1&alpn=h3&sni=at188.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at188.mechvpn.online:443?security=tls&alpn=h3&insecure=1&sni=at188.mechvpn.online#
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecure=1&alpn=h3&sni=fr131.mechvpn.online#
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecure=1&alpn=h3&sni=fr131.mechvpn.online&obfs=&obfs-password=#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?security=tls&alpn=h3&insecure=1&sni=fr131.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecure=1&alpn=h3&sni=nl174.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?security=tls&alpn=h3&insecure=1&sni=nl174.mechvpn.online#
@@ -64,6 +64,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?security=tls&alpn=h3&insecure=1&sni=nl8.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?sni=us54.mechvpn.online#
 hysteria2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443?insecure=1&sni=srvhy1.ezcon24.online#
+hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&obfs=salamander&obfs-password=uw9b2qq5rx#@GozargahAzad
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=&obfs=salamander&obfs-password=uw9b2qq5rx#
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-th.kvnfreetest.uk#
@@ -101,7 +102,7 @@ hysteria2://Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-p
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https://t.me/oneclickvpnkeys#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#1
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-003.fastervpn.world&obfs=&obfs-password=#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?security=tls&insecure=1&sni=vpn-us-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
@@ -177,8 +178,6 @@ hysteria2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#
 hysteria2://gf1@185.111.109.40:443?insecure=1&sni=www.dell.com#
 hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#
 hysteria2://hysteria2_fastlane_9r63hua9f@144.31.135.204:443?sni=nl2.h.fastlanehosting.ru#
-hysteria2://ig7jd1393f1qjp64@fatloss.akfitness.ir:32161?insecure=0&alpn=h3&sni=fatloss.akfitness.ir&obfs=salamander&obfs-password=stgabwsu6ouz9s5c#
-hysteria2://ig7jd1393f1qjp64@gym.akfitness.ir:56121?insecure=0&alpn=h3&sni=gym.akfitness.ir&obfs=salamander&obfs-password=6w7g6soybp5uguk8#
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&alpn=h3&sni=germany3.h2corp.local#
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?security=tls&alpn=h3&insecure=1&sni=germany3.h2corp.local#
 hysteria2://netherlands_3_hysteria2_fastlane_xr3nai71s@91.84.119.49:443?sni=nl4.h.fastlanehosting.ru#
