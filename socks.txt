@@ -1,5 +1,4 @@
 socks://Og@5.160.134.17:10808#@V2ray_Alpha
 socks://Og@81.12.57.38:10808#@prrofile_purple
 socks://Og@87.248.145.82:1080#@prrofile_purple
-socks://Og@89.44.112.13:1100#
 socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@prrofile_purple
