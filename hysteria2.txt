@@ -228,7 +228,6 @@ hysteria2://m3bqxk03mg221yi2@95.217.96.131:52016?insecure=0&sni=assets.gateway-s
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#@filembad
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#@vmesskhodam
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#@filembad
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52049?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=phos93w1zi0nj6uv#@vmesskhodam
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52049?security=tls&obfs=salamander&obfs-password=phos93w1zi0nj6uv&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
