@@ -1,3 +1,6 @@
+socks://Og@185.235.197.46:8443#@FarazV2ray
+socks://Og@185.235.197.46:8443#@FarazV2rayvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@FarazV2rayvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@185.207.196.48:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@FarazV2rayvless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@FarazV2rayvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra=
+socks://Og@185.235.197.46:8443#@V2rayng_Fast
 socks://Og@185.252.31.104:1080#@V2ray_Alpha
 socks://Og@81.12.57.38:10808#@prrofile_purple
 socks://Og@87.248.145.82:1080#@prrofile_purple
