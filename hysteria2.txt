@@ -101,7 +101,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.2
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#
 hysteria2://IJMFOXhvbQ@51.79.91.52:38871?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#Channel
-hysteria2://IJMFOXhvbQ@51.79.91.52:38871?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=0d1a3bdb9ed6df1bdccf9745055822b46ae00b63150c73b5447e09447666745a&sni=play.google.com#Channel
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443?insecure=0&sni=grape-zet-ro-turbo.bumbleshrimp.com#Romania
