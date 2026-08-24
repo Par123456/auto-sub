@@ -18,7 +18,6 @@ hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173?sni=
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@79.137.205.35:10808?sni=nl7.unlockvpn.online#
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@db1.mangshe.xyz:2056?sni=db1.mangshe.xyz#
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.119.101:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=de4.convert-cloud.guru#@GozargahAzad
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.119.101:443/?insecure=1&sni=de4.convert-cloud.guru#
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.119.101:443?insecure=1&sni=de4.convert-cloud.guru#
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#
