@@ -24,6 +24,7 @@ hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@bg185.mechvpn.online:443?sni=bg185.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@uk196.mechvpn.online:443?#
+hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?security=tls&obfs=salamander&obfs-password=09p333uviv2qal0y&insecure=0&sni=giftcard.gisora.ir#
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@V2rayng_Fast
@@ -44,12 +45,14 @@ hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@185.191.238.202:443?insecure=1&
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@37.46.199.229:443/?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@37.46.199.229:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#
+hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?security=tls&obfs=salamander&obfs-password=6cmj1dymhm79hopl&insecure=0&sni=gift-catalog.aroonia.ir#
 hysteria2://91283e34-8674-4961-b202-c3491b72eeb9@144.24.109.215:51000?insecure=1&sni=cn.cremedelamer.com#IN
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080?insecure=1&sni=mercedes-grape.yyuyy.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.114:8080?insecure=1&sni=hopp-germany-new.ddnsguru.com#
 hysteria2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?insecure=1&sni=archive.ubuntu.com&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#@Configvibes
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#@Configvibes
+hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#@Configvibes
 hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443?insecure=1&sni=grape-beer.yyuyy.com#
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443?insecure=1&sni=hy2-germany.unlimited-access.ru#
 hysteria2://Germany2026hy@45.128.99.14:8443/?insecure=1&obfs=salamander&obfs-password=SalamanderDE2026&sni=de.nobelchat.ru#
@@ -177,3 +180,4 @@ hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?alpn=h3&fm=
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52045?alpn=h3&fm=
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52049?alpn=h3&fm=
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52067?alpn=h3&fm=
+hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#
