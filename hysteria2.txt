@@ -54,7 +54,6 @@ hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52030?security=tls&obfs
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray_phoenix
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@EXPRESSVPN_420
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@FarazV2ray
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@FarazV2rayvless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@FarazV2rayvless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=/29c8fed7ca22&security=none&encryption=none&type=ws#@FarazV2ray
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@V2raySaman
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@v2ray_phoenix
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52062?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@vpnbaz
@@ -231,6 +230,7 @@ hysteria2://gf1@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com#
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080?insecure=1&sni=hopp-legend-se.roxa.org#
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?insecure=1&sni=hopp-legend-se.roxa.org#
+hysteria2://https//xship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52021?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@v2ray313
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52029?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
@@ -276,7 +276,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm=
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.149:8443?insecure=1&sni=grape-turbo-fr.roxa.org&obfs=&obfs-password=#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443?insecure=1&sni=grape-turbo-fr.roxa.org#
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&sni=cabinet.wwwinternetvideo.click#
