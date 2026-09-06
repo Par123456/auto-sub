@@ -1,1 +1,0 @@
-hysteria://dongtaiwang.com@5.83.129.153:20088?alpn=h3&downmbps=1000&insecure=1&sni=apple.com&upmbps=500#
