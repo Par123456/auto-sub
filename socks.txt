@@ -1,2 +1,3 @@
+socks://Og@185.63.113.164:1085#@FarazV2ray
 socks://Og@92.42.207.16:7890#@prrofile_purple
 socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@prrofile_purple
