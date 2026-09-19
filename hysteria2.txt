@@ -36,9 +36,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?insecure=1&sni=35.181.16
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?sni=127.0.0.1&insecure=1#
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8080?sni=hopp-romania-new.roxa.org#[
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#
@@ -102,6 +100,7 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@IRAN_V2RAY1
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@V2raySaman
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@V2rayng_Fast
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@filembad
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@meliproxyy
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@vasl_bashim
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#@vmesskhodam
@@ -132,7 +131,6 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=s
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#@Daily_Configs
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#Telegram:
 hysteria2://dongtaiwang.com@142.249.37.90:44356?insecure=0&sni=hy2.561891.xyz#17
-hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&insecure=0&sni=hy2.561891.xyz#17
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#United
 hysteria2://e78c9b0e-2e52-3ca8-bae2-ed04d8894f61@aic-2.serbia-maki.stream:32030?insecure=1&obfs=salamander&obfs-password=salamander&sni=aic-2.serbia-maki.stream#
 hysteria2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE
