@@ -6,4 +6,3 @@ socks://Og@185.63.113.164:1085#@FarazV2ray
 socks://Og@185.63.113.164:1085#@V2rayng_Fast
 socks://Og@92.42.207.16:7890#@prrofile_purple
 socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#@prrofile_purple
-socks://dTY4MzA1NjE5ODc6dFZrOWY4SkFtT2VJVUhJSw@45.192.242.201:8888#@FarazV2ray
