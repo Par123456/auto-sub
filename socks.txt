@@ -1,2 +1,4 @@
+socks://MTIzOjEyMw@8.217.182.75:3060#@FarazV2ray
+socks://MTIzOjEyMw@8.217.182.75:3060#@FarazV2raytrojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
 socks://Og@92.42.207.16:7890#@prrofile_purple
 socks://YmFGd3FaOlNxNTFhSw@104.238.190.248:11024#@V2ray_Alpha
