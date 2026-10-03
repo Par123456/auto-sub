@@ -3,7 +3,7 @@ hysteria2://033dc6b532@77.232.139.128:11592?security=tls&obfs=salamander&obfs-pa
 hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443/?sni=fi01.clgate.network#
 hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443?sni=fi01.clgate.network#
 hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?insecure=0&sni=mhzedir.qzz.io&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz#
-hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?security=tls&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz&insecure=0&sni=mhzedir.qzz.io#
+hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?insecure=0&sni=mhzedir.qzz.io&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz#@ange1Vpn
 hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?security=tls&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz&insecure=0&sni=mhzedir.qzz.io#@ange1Vpn
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433?insecure=1&sni=es1.xiaoliyu.cyou#
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@hk2.xiaoliyu.cyou:4433?insecure=1#
@@ -13,9 +13,12 @@ hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&sni=ww
 hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=salamander#
 hysteria2://3a92b39a-5f02-415e-a908-783ec320e83f@153.76.190.41:8443/?insecure=1&sni=speedtestmark.com#
 hysteria2://3a92b39a-5f02-415e-a908-783ec320e83f@153.76.190.41:8443?insecure=1&sni=speedtestmark.com#
+hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013/?insecure=1&sni=www.bing.com#
 hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#@Begoo_VPN
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#@Begoo_VPN
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els.mangshe.xyz:2060/?insecure=1&sni=els.mangshe.xyz#
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els.mangshe.xyz:2060?insecure=1&sni=els.mangshe.xyz#
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&sni=127.0.0.1#
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?security=tls&obfs=salamander&obfs-password=09p333uviv2qal0y&insecure=0&sni=giftcard.gisora.ir#Telegram
