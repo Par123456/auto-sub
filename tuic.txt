@@ -1,2 +1,0 @@
-tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@us02.uzifan.monster:8443?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#
-tuic://D7286728-678E-443B-B76B-B699654C66DD:D7286728-678E-443B-B76B-B699654C66DD@tw6.dexlos.com:8080?allow_insecure=1&alpn=h3&sni=tw6.dexlos.com#
