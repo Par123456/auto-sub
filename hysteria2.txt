@@ -12,6 +12,8 @@ hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@fc6ffc71-tmm5c0-ts3rye-mrtr.hk3
 hysteria2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@a91af2af-tmm5c0-twnp5a-ahsb.hk3.hyhuawei.com:443?insecure=1&sni=a91af2af-tmm5c0-twnp5a-ahsb.hk3.hyhuawei.com#
 hysteria2://3085fcf8-a69c-11ec-bd7c-f23c913c8d2b@324d64f1-tmm5c0-tnsc3a-1f0gu.hk3.hyhuawei.com:443?insecure=1&sni=324d64f1-tmm5c0-tnsc3a-1f0gu.hk3.hyhuawei.com#
 hysteria2://35d26d53bc@109.104.153.124:11592?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374&insecure=0&sni=srv-0e5387.frd21.ru#@GozargahAzad
+hysteria2://35d26d53bc@109.104.153.124:11592?insecure=0&alpn=h3&sni=srv-0e5387.frd21.ru&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374#
+hysteria2://35d26d53bc@109.104.153.124:11592?insecure=0&sni=srv-0e5387.frd21.ru&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374#@prrofile_purple
 hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=87d72c2949c0ca85bbda09459244e374&insecure=0&sni=srv-0e5387.frd21.ru#
 hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374&insecure=0&sni=srv-0e5387.frd21.ru#@prrofile_purple
 hysteria2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@39c981a4-tmm5c0-u093mf-1mina.hk3.hyhuawei.com:443?insecure=1&sni=39c981a4-tmm5c0-u093mf-1mina.hk3.hyhuawei.com#
@@ -66,9 +68,12 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://ca78f919e6@155.94.134.183:11592?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#@GozargahAzad
+hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&alpn=h3&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#
+hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#@prrofile_purple
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#9820
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#@ICV2RAY
+hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#@V2ray_Alpha
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#@prrofile_purple
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21000-21199,33000-33199/?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#
