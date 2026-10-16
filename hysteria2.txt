@@ -63,6 +63,8 @@ hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24000-24199,3700
 hysteria2://capadm54312235@51.15.16.68:443?insecure=1&sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33025?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#
 hysteria2://capadm96216165@208.69.78.217:443?insecure=1&sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#
+hysteria2://dongtaiwang.com@142.249.37.90:44356?insecure=0&sni=hy2.561891.xyz#
+hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&insecure=0&sni=hy2.561891.xyz#
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?insecure=0&sni=hy2.561891.xyz#
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?security=tls&insecure=0&sni=hy2.561891.xyz#
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=0&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#kurdconfig
