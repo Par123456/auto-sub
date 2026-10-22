@@ -12,7 +12,7 @@ hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clas
 hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443?sni=clash2.deep-links.com#
 hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720/?insecure=1&sni=bing.com#
 hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720/?insecure=1&sni=bing.com#@tootffarangi
-hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720?insecure=1&sni=bing.com#
+hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720?insecure=1&sni=bing.com&obfs=&obfs-password=#
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?insecure=0&sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#@v2ray_phoenix
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&insecure=0&sni=ru03.arpanet-cdn.com#@V2ray_confiig
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&insecure=0&sni=ru03.arpanet-cdn.com#@v2ray_phoenix
