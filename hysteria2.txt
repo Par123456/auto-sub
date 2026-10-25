@@ -24,6 +24,7 @@ hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@144.31.230.51:2053?sni=sweden.l
 hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@2.26.48.112:2053/?sni=noway.luxes.network#
 hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@2.26.48.112:2053?sni=noway.luxes.network#
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.212.245.120:443?insecure=1&sni=www.bing.com#
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=140.238.213.114#
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram
@@ -80,17 +81,21 @@ hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.n
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443/#
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=0&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#@vmess_ir
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@Selinc
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@vmess_ir
+hysteria2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280?security=tls&obfs=salamander&obfs-password=hfwq51con9efdxx6&insecure=0&sni=r5ycmuko.zibayeman.com#
+hysteria2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280?security=tls&obfs=salamander&obfs-password=hfwq51con9efdxx6&insecure=0&sni=r5ycmuko.zibayeman.com#@Capoit
 hysteria2://fb2defa0-2ee5-4ad9-90b7-dde7cbf3f01f@51.75.118.5:20161?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=546e172a11c77094#@pass_net
 hysteria2://fb2defa0-2ee5-4ad9-90b7-dde7cbf3f01f@51.75.118.5:20161?sni=www.google.com&obfs=salamander&obfs-password=546e172a11c77094&insecure=1&upmbps=10000&downmbps=10000#@pass_net
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1#
 hysteria2://https://xship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#
 hysteria2://https@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#
+hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&insecure=1#
 hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=bing.com#
-hysteria2://mhsl@88.99.213.222:14444?sni=bing.com&insecure=1#
 hysteria2://miaoge110@5.45.100.100:51511/?insecure=1#
 hysteria2://miaoge110@5.45.100.100:51511?insecure=1#
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#@confiig_hub
@@ -110,6 +115,5 @@ hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salama
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
 hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?insecure=1&sni=www.bing.com#
-hysteria2://wdXYbPlYLa5yLB7LF2Ambo@46.225.10.16:443?sni=www.bing.com&insecure=1&fastopen=1#
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
