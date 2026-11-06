@@ -1,4 +1,3 @@
-hysteria2://1d491f8c-ccaa-43e1-b62d-f255c7832e27@129.146.124.201:51000?security=tls&sni=cn.cremedelamer.com&insecure=1#
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com:443/?insecure=1&sni=fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com#
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com:443?insecure=1&sni=fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com#
 hysteria2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com:443/?insecure=1&sni=b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com#
@@ -15,10 +14,10 @@ hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@ca3ddbd3-tmm5c0-tw2fdz-1s824.lo
 hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com:443?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@185.153.55.28:443/?sni=se.mimowhat.online#
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@185.153.55.28:443?sni=se.mimowhat.online#
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.233.159:443?insecure=1&sni=www.bing.com#
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.233.159:443?insecure=1&sni=www.bing.com&pinSHA256=89:61:86:FE:B2:0C:B7:40:31:87:A4:5F:F3:BD:5D:DC:8B:FB:DD:41:9D:77:9D:55:D7:86:18:9D:36:73:1A:69#
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.212.85.246:443?insecure=1&sni=www.bing.com#
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.212.205.194:443?insecure=1&sni=www.bing.com#
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@13.212.85.246:443?insecure=1&sni=www.bing.com&pinSHA256=C1:FD:40:94:1F:91:9B:5C:78:96:24:40:97:F2:2D:9D:95:8E:62:5C:D9:58:B7:5F:34:CC:FA:42:18:1F:50:B2#
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@3.36.90.103:443?insecure=1&sni=www.bing.com#
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@54.180.236.157:443?insecure=1&sni=www.bing.com#
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@54.251.78.89:443?insecure=1&sni=www.bing.com#
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@807fc395-tmm5c0-u5ip77-duku.los.hyhuawei.com:443/?insecure=1&sni=807fc395-tmm5c0-u5ip77-duku.los.hyhuawei.com#
@@ -83,12 +82,17 @@ hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=0&sni=n
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#Channel
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=0&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#@Selinc
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@Selinc
+hysteria2://eRlY6dXnQ4QUzVOQi6YDfZWq@18.141.210.28:10000?insecure=1&alpn=h3&sni=sg-transit-3.nebulacloud.win#
+hysteria2://eRlY6dXnQ4QUzVOQi6YDfZWq@18.141.210.28:10000?insecure=1&sni=sg-transit-3.nebulacloud.win#
 hysteria2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280?insecure=0&sni=r5ycmuko.zibayeman.com&obfs=salamander&obfs-password=hfwq51con9efdxx6#
 hysteria2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280?security=tls&obfs=salamander&obfs-password=hfwq51con9efdxx6&insecure=0&sni=r5ycmuko.zibayeman.com#
+hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?insecure=1&sni=hy.cardlist24.shop#
 hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443/?sni=node.aweom.su#
 hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443?sni=node.aweom.su#
 hysteria2://https://xship.best@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#
 hysteria2://kztyblVC7ZlEKR3ZO5HW@142.11.207.17:443?insecure=1&sni=www.bing.com#
+hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=88.99.213.222&obfs=&obfs-password=#
+hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=bing.com#
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#@confiig_hub
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@confiig_hub
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#
