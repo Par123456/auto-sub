@@ -1,3 +1,4 @@
 hysteria://dongtaiwang.com@163.172.117.163:36699?upmbps=11&downmbps=55&security=tls&sni=bing.com&insecure=1&alpn=h3#
 hysteria://dongtaiwang.com@5.83.129.90:54177?upmbps=11&downmbps=55&security=tls&sni=apple.com&insecure=1&alpn=h3#
 hysteria://dongtaiwang.com@62.210.28.175:24667?upmbps=11&downmbps=55&security=tls&sni=bing.com&insecure=1&alpn=h3#
+hysteria://github.com/Alvin9999-newpac/fanqiang@198.200.57.142:22335?upmbps=11&downmbps=55&security=tls&sni=bing.com&insecure=1&alpn=h3#
