@@ -4,7 +4,6 @@ socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#@FarazV2ray
 socks://VUJYaWNoMEs6VnZVQUZpMkU@72.57.228.87:62000#@V2rayng_Fast
 socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#@FarazV2ray
 socks://WDNzM0p0ZUQ6bXBiSzAwUGw@192.204.15.135:42000#@V2rayng_Fast
-socks://dGVzdDEyMzp0ZXN0MTIz@104.168.249.36:1080#@FarazV2ray
 socks://dXRkcjh3dnM6N2kxZGhlZzY@216.132.114.194:62000#@FarazV2ray
 socks://eTJzdFRRbmY6d2oyc052RHU@45.201.39.74:62000#@FarazV2ray
 socks://eTJzdFRRbmY6d2oyc052RHU@45.201.39.74:62000#@V2rayng_Fast
